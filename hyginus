@@ -1,0 +1,11 @@
+{
+  "source": "adMob",
+  "account": "2661402301089982",
+  "ids": {
+    "nativeSmall": ["8636504754"],
+    "nativeMedium": ["7732704359"],
+    "nativeBig": [],
+    "banner": ["3570300350"],
+    "interstitial": ["6523766754"]
+  }
+}
