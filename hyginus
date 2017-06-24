@@ -2,10 +2,14 @@
   "source": "admob",
   "account": "2661402301089982",
   "ids": {
-    "nativeSmall": ["8636504754"],
-    "nativeMedium": ["7732704359"],
-    "nativeBig": [],
+    "native": {
+      "small": ["8636504754"],
+      "medium": ["7732704359"],
+      "big": []
+    },
     "banner": ["3570300350"],
     "interstitial": ["6523766754"]
   }
+  //"source": "appodeal",
+  //"account": "2661402301089982"
 }
